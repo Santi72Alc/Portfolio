@@ -1174,6 +1174,8 @@ footer .credits a {
     border-radius: 0.3rem;
 }
 
+
+/* Media queries */
 @media (min-width: 577px) {
     .counter-box {
         margin-bottom: 1.8rem;
